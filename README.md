@@ -1,6 +1,24 @@
 # Plasticite
 ### Plasticite - Destroy the Plastics and Level Up!
 
+<table>
+    <tr>
+        <td>Latest MacOS Release</td>
+        <td>
+        <a href="https://github.com/tobybridle/plasticite/releases/latest">
+        <img src="https://img.shields.io/github/v/release/tobybridle/plasticite?include_prereleases&label=latest%20release&style=for-the-badge" alt="latest release">
+        </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://user-images.githubusercontent.com/52335751/235167628-afb57213-b819-4787-a73e-e322592efe20.png" style="width: 50%;" alt="Gameplay" />
+        </td>
+        <td>
+            <img src="https://user-images.githubusercontent.com/52335751/235167647-aa8e13e7-73ae-4a15-9dea-dba53180b6f1.png" style="width: 50%;" alt="Gameplay" />
+        </td>
+    </tr>
+</table>
 
 
 ## Table of Contents
