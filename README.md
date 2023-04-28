@@ -1,8 +1,9 @@
-# Plasticite
+# Plasticite
+### Plasticite - Destroy the Plastics and Level Up!
 
-<center>Plasticite - Destroy the Plastics and Level Up!</center>
 
-## Table of Contents
+
+## Table of Contents
 - [Description](#description)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
@@ -11,7 +12,8 @@ Please note: This project was developed for a hypothetical client
 and is not currently actively maintained.
 ----
 
-## Description
+## Description
+
 Plasticite is a game developed for Games2Cation, a company focused
 on creating fun, yet educational, games for young children.
 Modelled around the idea of dangerous plastics
@@ -29,6 +31,7 @@ advances.
 The game is written in C# using the Unity game engine.
 
 ## How to Play
+
 There is currently only one pre-built version of the game, which is
 for Windows. To play the game, simply download the zip file from
 the releases page, extract it, and run the executable.
@@ -40,7 +43,9 @@ installed, you can clone this repository and open the project in
 Unity. From there, you can build the game for your platform of
 choice.
 
-## Contributing
+
+## Contributing
+
 If you wish to contribute to the game, you can fork this repository
 and make your changes. Once you are happy with your changes, you can
 submit a pull request to this repository. Please make sure that your
