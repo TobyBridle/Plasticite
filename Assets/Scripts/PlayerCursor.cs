@@ -36,7 +36,7 @@ public class PlayerCursor : MonoBehaviour
         mousePos.z = Camera.main.nearClipPlane;
         // We want to lerp the position of the cursor
         // from its current position to the mouse position
-        lerp(cursor.transform.position, mousePos, 0.1f);
+        lerp(cursor.transform.position, mousePos, 0.3f);
 
         // If the cursor is hovering over an enemy
         // we want to switch the sprite to the hoverEnemy sprite
