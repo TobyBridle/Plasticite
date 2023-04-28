@@ -33,7 +33,7 @@ The game is written in C# using the Unity game engine.
 ## How to Play
 
 There is currently only one pre-built version of the game, which is
-for Windows. To play the game, simply download the zip file from
+for MacOS. To play the game, simply download the zip file from
 the releases page, extract it, and run the executable.
 
 For those who wish to build the game **from source**, you will need
